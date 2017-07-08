@@ -1,10 +1,10 @@
 # Liste over emner
-Dette er en liste over emner jeg har hatt på NTNU
+Dette er en liste over emner jeg har hatt på NTNU med lenker til repositories til dem.
 
 ## Emner
 - Programmering grunnkurs
   - [Øvinger](https://github.com/Knutakir/ProgrammeringsOvinger1kl)
-  - [Prosjekt](https://github.com/Knutakir/Legoboys-15)
+  - [Prosjekt](https://github.com/Knutakir/Legoboys-15) - programmering av LeJOS roboter
 - Databaser med videregående programmering
   - [Øvinger](https://github.com/Knutakir/Databaser-med-videregaaende-programmering)
   - Prosjekt
@@ -12,4 +12,4 @@ Dette er en liste over emner jeg har hatt på NTNU
   - [Øvinger](https://github.com/Knutakir/Algoritmer_og_datastrukturer)
 - Nettverksprogrammering
   - [Øvinger](https://github.com/Knutakir/Nettverksprogrammering)
-  - Prosjekt
+  - [Prosjekt](https://github.com/ingunnsund/Python-WebSocket) - programmering av et WebSocket bibliotek
