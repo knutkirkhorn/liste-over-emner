@@ -1,5 +1,5 @@
 # Liste over emner
-Dette er en liste over emner jeg har hatt på NTNU med lenker til repositories til dem.
+Dette er en liste over emner jeg har hatt på dataingeniørstudiet på NTNU med lenker til repositories for øvinger og prosjekter til dem.
 
 ## Emner
 - Programmering grunnkurs
@@ -7,7 +7,8 @@ Dette er en liste over emner jeg har hatt på NTNU med lenker til repositories t
   - [Prosjekt](https://github.com/Knutakir/Legoboys-15) - programmering av LeJOS roboter
 - Databaser med videregående programmering
   - [Øvinger](https://github.com/Knutakir/Databaser-med-videregaaende-programmering)
-  - Prosjekt
+- Systemutvikling 1 med databseprosjekt
+  - [Prosjekt](https://github.com/Team14-TheBrogrammers/Systemutviklingsprosjekt)
 - Algoritmer og datastrukturer
   - [Øvinger](https://github.com/Knutakir/Algoritmer_og_datastrukturer)
 - Nettverksprogrammering
