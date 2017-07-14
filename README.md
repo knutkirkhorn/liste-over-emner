@@ -11,6 +11,8 @@ Dette er en liste over emner jeg har hatt på dataingeniørstudiet på NTNU med 
   - [Prosjekt](https://github.com/Team14-TheBrogrammers/Systemutviklingsprosjekt)
 - Algoritmer og datastrukturer
   - [Øvinger](https://github.com/Knutakir/Algoritmer_og_datastrukturer)
+- Systemutvikling 2 med med web-applikasjoner
+  - [Øvinger]()
 - Nettverksprogrammering
   - [Øvinger](https://github.com/Knutakir/Nettverksprogrammering)
   - [Prosjekt](https://github.com/ingunnsund/Python-WebSocket) - programmering av et WebSocket bibliotek
