@@ -12,7 +12,7 @@ Dette er en liste over emner jeg har hatt på dataingeniørstudiet mitt på NTNU
 - Algoritmer og datastrukturer (TDAT2005)
   - [Øvinger](https://github.com/Knutakir/Algoritmer-og-datastrukturer)
 - Systemutvikling 2 med med web-applikasjoner
-  - [Øvinger]()
+  - [Øvinger](https://github.com/Knutakir/Systemutvikling-2)
 - Nettverksprogrammering (TDAT2004)
   - [Øvinger](https://github.com/Knutakir/Nettverksprogrammering)
   - [Prosjekt](https://github.com/ingunnsund/Python-WebSocket) - programmering av et WebSocket bibliotek
