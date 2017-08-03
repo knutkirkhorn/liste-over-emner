@@ -11,7 +11,7 @@ Dette er en liste over emner jeg har hatt på dataingeniørstudiet mitt på NTNU
   - [Prosjekt](https://github.com/Team14-TheBrogrammers/Systemutviklingsprosjekt)
 - Algoritmer og datastrukturer (TDAT2005)
   - [Øvinger](https://github.com/Knutakir/Algoritmer-og-datastrukturer)
-- Systemutvikling 2 med web-applikasjoner
+- Systemutvikling 2 med web-applikasjoner (TDAT2003)
   - [Øvinger](https://github.com/Knutakir/Systemutvikling-2)
 - Nettverksprogrammering (TDAT2004)
   - [Øvinger](https://github.com/Knutakir/Nettverksprogrammering)
