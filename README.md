@@ -18,3 +18,5 @@ Dette er en liste over emner jeg har hatt på dataingeniørstudiet mitt på NTNU
   - [Prosjekt](https://github.com/ingunnsund/Python-WebSocket) - programmering av et WebSocket bibliotek
 - Applikasjonsutvikling for Android (**IINI4001**)
   - [Øvinger]()
+- C++ for programmerere (**IINI4003**)
+  - [Øvinger]()
