@@ -20,3 +20,5 @@ Dette er en liste over emner jeg har hatt på dataingeniørstudiet mitt på NTNU
   - [Øvinger]()
 - C++ for programmerere (**IINI4003**) [KOMMER SNART]
   - [Øvinger]()
+- Sikkerhet i programvare og nettverk (***TDAT3020***) [KOMMER SNART]
+  - [Øvinger]()
