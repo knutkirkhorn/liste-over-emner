@@ -16,8 +16,8 @@ Dette er en liste over emner jeg har hatt på dataingeniørstudiet mitt på NTNU
 - Nettverksprogrammering (**TDAT2004**)
   - [Øvinger](https://github.com/Knutakir/Nettverksprogrammering)
   - [Prosjekt](https://github.com/ingunnsund/Python-WebSocket) - programmering av et WebSocket bibliotek
-- Applikasjonsutvikling for Android (**IINI4001**) [KOMMER SNART]
-  - [Øvinger]()
+- Applikasjonsutvikling for Android (**IINI4001**)
+  - [Øvinger](https://github.com/Knutakir/Applikasjonsutvikling-for-Android)
 - C++ for programmerere (**IINI4003**)
   - [Øvinger](https://github.com/Knutakir/Cpp-for-programmerere)
 - Sikkerhet i programvare og nettverk (**TDAT3020**)
