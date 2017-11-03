@@ -23,4 +23,5 @@ Dette er en liste over emner jeg har hatt på dataingeniørstudiet mitt på NTNU
 - Sikkerhet i programvare og nettverk (**TDAT3020**)
   - [Øvinger](https://github.com/Knutakir/Sikkerhet-i-programvare-og-nettverk)
 - Matematikk og fysikk valgfag (**TDAT3024**) (***KOMMER SNART***)
-  - []()
+  - [Øvinger ***KOMMER SNART***]()
+  - [Prosjekt ***KOMMER SNART***]()
